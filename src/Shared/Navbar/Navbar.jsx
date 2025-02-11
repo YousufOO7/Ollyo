@@ -10,7 +10,7 @@ const Navbar = () => {
     </div>
 
     return (
-        <div className="flex justify-between px-20 items-center bg-base-100 overflow-hidden border py-2">
+        <div className="flex justify-between px-10 items-center bg-base-100 overflow-hidden border py-4">
             <div className="flex items-center">
                 <div className="flex">
                     <div>
@@ -29,7 +29,7 @@ const Navbar = () => {
 
             {/* end */}
             <div className="flex items-center">
-                <button className="btn hidden lg:block">btn</button>
+                <button className="px-10 py-2 bg-black text-white hover:bg-blue-500 rounded-full transition-all duration-700 ease-in-out hidden lg:block">Career</button>
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
                         <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"> <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" /> </svg>
