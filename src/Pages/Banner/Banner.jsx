@@ -20,7 +20,7 @@ const Banner = () => {
                         </div>
 
                         <div className="w-1/2 flex items-center pt-40 lg:pt-52 pl-10 lg:pl-20">
-                            <p>See open <br />Position</p>
+                            <p className="text-lg font-normal">See open <br />Position</p>
                         </div>
                     </div>
 
