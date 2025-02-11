@@ -1,7 +1,7 @@
 
 const Brands = () => {
     return (
-        <div className="my-20 w-full">
+        <div className="mt-20 mb-10 w-full">
             <div className="container flex md:flex-row flex-col  justify-between px-10">
                 <div className="name md:w-1/2">
                     <h1 className="text-5xl lg:text-6xl mb-10 md:mb-0">Our Brands</h1>
