@@ -2,9 +2,9 @@
 const Brands = () => {
     return (
         <div className="mt-20 mb-10 w-full">
-            <div className="container flex md:flex-row flex-col  justify-between px-10">
+            <div className="container flex md:flex-row flex-col  justify-between">
                 <div className="name md:w-1/2">
-                    <h1 className="text-5xl lg:text-6xl mb-10 md:mb-0">Our Brands</h1>
+                    <h1 className="text-5xl lg:text-6xl mb-10 md:mb-0 px-8">Our Brands</h1>
                 </div>
                 <div className="text md:w-1/2">
                     <p className="text-xl lg:text-3xl lg:leading-[3vw]">
