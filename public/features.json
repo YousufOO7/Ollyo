@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/zWMYKn6K/Screenshot-2025-02-12-143201.png",
+      "title": "Software Engineering",
+      "description": "Dive into complex challenges with a top-tier engineering team, crafting innovative software solutions."
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/gLvLhrRB/Screenshot-2025-02-12-143217.png",
+      "title": "Design & UX",
+      "description": "Collaborate with creative minds to design captivating user experiences and interfaces that stand out."
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co.com/d4qL6vHM/Screenshot-2025-02-12-143233.png",
+      "title": "Artificial Intelligence (AI)",
+      "description": "Push the boundaries of AI, developing cutting-edge applications that redefine what's possible."
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/twpsNcK9/Screenshot-2025-02-12-143250.png",
+      "title": "Project Management",
+      "description": "Lead projects from concept to completion, ensuring seamless execution and outstanding results."
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/XZLS9RxJ/Screenshot-2025-02-12-143306.png",
+      "title": "Marketing",
+      "description": "Propel our brand forward by crafting compelling narratives and strategies that capture and engage our audience."
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co.com/CpG6r8n3/Screenshot-2025-02-12-143321.png",
+      "title": "Sales",
+      "description": "Excel in a dynamic sales environment, connecting with global clients to deliver tech solutions that meet their needs."
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co.com/DD3KmMLM/Screenshot-2025-02-12-143335.png",
+      "title": "Research",
+      "description": "Contribute to groundbreaking research, exploring new technologies and methodologies to fuel innovation."
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co.com/FLdKMFsy/Screenshot-2025-02-12-143347.png",
+      "title": "Security",
+      "description": "Safeguard our digital assets, ensuring the highest levels of security and resilience against evolving threats."
+    }
+  ]
+  
